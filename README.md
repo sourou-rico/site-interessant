@@ -12,8 +12,10 @@
 - Power Mode ==> fun by writing more code
 - Discord Presence ==> fun, show what you're working on
 
+## tué un processus
+- netstat -ano | findstr :PORT_NUMBER
+- taskkill /PID  /F PROCESS_ID
 
-# site-int-ressant
 
 ## site de formation
 - (grafikart)[https://grafikart.fr/]
@@ -53,7 +55,7 @@
 -(php upload)[https://github.com/tiburcekouagou/upload]
 -(exercice vuejs)[https://github.com/tiburcekouagou/vuejs-exo-series]
 
-## githeb d'amour
+## githeb du formateur amour
 -(serie exo php)[https://github.com/dereck22dev/php_H5_courses]
 
 ## generer les images aleatoire
@@ -92,10 +94,11 @@
 - (typrx)[https://www.typrx.com/]
 - (typecom)[https://typecome.com/random-race]
 
-## site de télévision ou film
+## site de télévision/film/animé
 - (photocall)[https://photocall.site/]
 - (moviebox)[https://moviebox.ph/fr]
 - (fstv)[https://fstv.fun/]
+-(french-anime)[https://french-anime.com/animes-vf/]
 
 ## Template
 - [https://dreamgigs.dreamstechnologies.com/#index]
@@ -118,7 +121,7 @@
 -(daily dev)[https://daily.dev/fr-fr]// une extension existe
 
 ## Traduction de site
-- (i18n)[]
+- (i18n)[]// traduction de site web
 
 ## Extension interressant
 - (Gitlens) // vscode, trace le code des developpeurs
@@ -142,9 +145,7 @@
 ## jeu en ligne
 - (uno)[https://www.solitaireparadise.com/games_list/uno-online.html]
 
-## tué un processus
-- netstat -ano | findstr :PORT_NUMBER
-- taskkill /PID  /F PROCESS_ID
+
 
 ## IA frontend
 - (aurabuild)[https://www.aura.build/]
@@ -165,5 +166,5 @@
 - mongod.exe --dbpath="chemin jusqu'au db"
 
 ## site de construction d'application web full stack
--(Bolt)
+-(Bolt)[https://bolt.new/]
 -(Orchids)[https://www.orchids.app/]
